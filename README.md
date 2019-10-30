@@ -1,2 +1,2 @@
-# vueAdmin
+# vueadmin
 GitHub熟悉
